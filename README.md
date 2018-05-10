@@ -1,0 +1,2 @@
+# itdependsmanifesto
+itdependsmanifesto
