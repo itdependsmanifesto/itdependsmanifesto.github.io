@@ -13,5 +13,13 @@ Angular 1 anyone?
 ## 4. Buy technical books
 Once obsolete they will turn in useful monitor stands!
 
-## 5. The only stuff that does not depend
+## 5. Final manifesto version
+Is this a final version? It depends.
+
+## 6. The only stuff that does not depend
 Your project will contain bugs.
+
+---
+
+# Call to itdependsdentism
+Would you like to collaborate with other stuff that depends? Open a PR [here](https://github.com/itdependsmanifesto/itdependsmanifesto.github.io/pulls). Will it be merged? It depends, of course. 
