@@ -14,7 +14,7 @@ Angular 1 anyone?
 Once obsolete they will turn in useful monitor stands!
 
 ## 5. Final manifesto version
-[Is this a final version?](https://github.com/itdependsmanifesto/itdependsmanifesto.github.io/blob/master/it_depends.md).
+[Is this a final version?](https://github.com/itdependsmanifesto/itdependsmanifesto.github.io/blob/master/it_depends.md)
 
 ## 6. The only stuff that does not depend
 Your project will contain bugs.
