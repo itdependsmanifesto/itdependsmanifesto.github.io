@@ -1,4 +1,4 @@
-# The it depends manifesto
+# The It Depends Manifesto
 We are itdependsdentists.
 
 ## 1. Software artifacts are highly prone to horror
