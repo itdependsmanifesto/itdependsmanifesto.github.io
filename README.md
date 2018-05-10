@@ -1,2 +1,2 @@
 # itdependsmanifesto
-itdependsmanifesto
+We are itdependsdentists.
