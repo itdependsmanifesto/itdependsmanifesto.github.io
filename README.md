@@ -1,7 +1,7 @@
 # The it depends manifesto
 We are itdependsdentists.
 
-## 1. Software artifacts are highly prone to ~errors~ horrors
+## 1. Software artifacts are highly prone to horror
 It does not matter how you'll implement your source code: it will suck for sure, somewhere, somehow.
 
 ## 2. Ctrl+C, ctrl+V
