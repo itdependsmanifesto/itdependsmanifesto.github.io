@@ -1,1 +1,10 @@
-theme: tufte-pandoc-jekyll
+# Site settings
+title: It depends manifesto
+tag_text: It depends manifesto
+description: It depends manifesto
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
